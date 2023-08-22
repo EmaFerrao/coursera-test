@@ -1,1 +1,1 @@
-# para o Web Design Courser de Coursera
+# para o Web Design Course de Coursera
